@@ -1,0 +1,11 @@
+carrito visible
+Texto recuperado: 'US$110.00US$110.00'
+Texto recuperado: 'US$129.95US$129.95'
+Texto recuperado: 'US$137.02US$137.02'
+Texto recuperado: 'US$149.48US$149.48'
+Texto recuperado: 'US$80.00US$80.00'
+Texto recuperado: 'US$260.00US$260.00'
+Suma total: 866.46585
+Texto del valor de referencia: 'US$866.45'
+Número del valor de referencia: 866.45
+La suma total no coincide con el valor de referencia.
